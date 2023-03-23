@@ -10,7 +10,7 @@ welcome = """
 toiletOwnershipDebate = """
         Who is this guy to tell you who's toilet this is???
         You intellectually argue with the LITERAL NARRATOR about toilet ownership and its implications. 
-        Although you did win the debate because none of you remember anything before this point,
+        You did win the debate but not of your 'profound genius' but because none of you remember anything before this point,
         Interesing...
         Well since I'm in your toilet, what next?
         
@@ -42,7 +42,7 @@ toiletUhOh = """
 
 narratorSmells = """
         You obliterate the harmless narrator with your cutting words that etch wounds into their poor soul...
-        You make clear you are force to be reckoned with, A FORCE WITH UNIMAGINABLE POWER!
+        You make clear you are a force to be reckoned with, A FORCE WITH UNIMAGINABLE POWER!
         (You feel something has awakened in you...)
         The narrator is very sorry for questioning your power and introduces himself as Joe
         
