@@ -9,7 +9,7 @@ welcome = """
 
 toiletOwnershipDebate = """
         Who is this guy to tell you who's toilet this is???
-        You argue with the LITERAL NARRATOR ABOUT WHO'S TOILET THIS IS FOR 2 HOURS. 
+        You intellectually argue with the LITERAL NARRATOR about toilet ownership and its implications. 
         Although you did win the debate because none of you remember anything before this point,
         Interesing...
         Well since I'm in your toilet, what next?
@@ -21,7 +21,7 @@ toiletOwnershipDebate = """
 """
 
 kiwiRobbery = """
-        With what, the kiwi in your hand??? 
+        A robbery with what, the kiwi in your hand??? 
         Actually, you know...
         If you give me the kiwi, I'll let the robbery commence.
         Sounds fair?
