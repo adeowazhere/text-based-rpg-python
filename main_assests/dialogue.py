@@ -7,7 +7,7 @@ welcome = """
         D: YOU SMELLLLL!!!!1!!1!!!
 """
 
-toiletOwnershipDebate = """
+dialogueA = """
         Who is this guy to tell you who's toilet this is???
         You intellectually argue with the LITERAL NARRATOR about toilet ownership and its implications. 
         You did win the debate but not of your 'profound genius' but because none of you remember anything before this point,
@@ -20,7 +20,7 @@ toiletOwnershipDebate = """
         D: Stay in the toilet thinking about the amazing craftmanship of said object.
 """
 
-kiwiRobbery = """
+dialogueB = """
         A robbery with what, the kiwi in your hand??? 
         Actually, you know...
         If you give me the kiwi, I'll let the robbery commence.
@@ -32,7 +32,7 @@ kiwiRobbery = """
         D: You really want this kiwi huh...
 """
 
-toiletUhOh = """
+dialogueC = """
         Oh okay then well take some toilet paper as a parting gift, random intruder!
          
         (You recieved Toilet paper!!!)
@@ -40,7 +40,7 @@ toiletUhOh = """
         (Oh well there goes the progra---)
 """
 
-narratorSmells = """
+dialogueD = """
         You obliterate the harmless narrator with your cutting words that etch wounds into their poor soul...
         You make clear you are a force to be reckoned with, A FORCE WITH UNIMAGINABLE POWER!
         (You feel something has awakened in you...)

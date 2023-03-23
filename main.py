@@ -5,12 +5,12 @@ answer = f.message(m.welcome)
 while True:
     match answer :
         case "a" :
-            answer = f.message(m.toiletOwnershipDebate)
+            answer = f.message(m.dialogueA)
         case "b" :
-            answer = f.message(m.kiwiRobbery)
+            answer = f.message(m.dialogueB)
         case "c" :
-            answer = f.message(m.toiletUhOh)
+            answer = f.message(m.dialogueC)
             exit()
         case "d" :
-            answer = f.message(m.narratorSmells)
+            answer = f.message(m.dialogueD)
 print("uhhh this isnt finished yet lol")
