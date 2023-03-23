@@ -1,4 +1,4 @@
-from main_assests import messages as m
+from main_assests import dialogue as m
 from main_assests import functions as f
 
 answer = input(f.fluff(m.welcome))
