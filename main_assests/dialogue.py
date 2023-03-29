@@ -1,6 +1,6 @@
-placeholder = ["uhhhhhhhhhhhhhhhhhhhh idk lol", None, None, None]
+placeholder = {0 : "uhhhhhhhhhhhhhhhhhhhh idk lol", "a" : None, "b" : None, "c" : None, "d" : None}
 
-dialogueA = ["""
+dialogueA = { 0 : """
         Who is this guy to tell you who's toilet this is???
         You intellectually argue with the LITERAL NARRATOR about toilet ownership and its implications. 
         You did win the debate but not because of your 'profound genius' but because none of you remember anything before this point.
@@ -10,9 +10,9 @@ dialogueA = ["""
         B: We should probably leave the toilet...
         C: SWORDFIGHT!!!
         D: Stay in the toilet thinking about the amazing craftmanship of said object.
-""", placeholder, placeholder, placeholder, placeholder]
+""",  "a" : placeholder, "b" : placeholder, "c" : placeholder, "d" : placeholder}
 
-dialogueB = ["""
+dialogueB = { 0 : """
         A robbery with what, the kiwi in your hand??? 
         Actually, you know...
         If you give me the kiwi, I'll let the robbery commence.
@@ -22,17 +22,17 @@ dialogueB = ["""
         B: Of course!!!
         C: Of course!!!
         D: You really want this kiwi huh...
-""" , placeholder, placeholder, placeholder, placeholder]
+""" , "a" : placeholder, "b" : placeholder, "c" : placeholder, "d" : placeholder}
 
-dialogueC = ["""
+dialogueC = {0 :"""
         Oh okay then well take some toilet paper as a parting gift, random intruder!
          
         (You recieved Toilet paper!!!)
         (It spontaneously turns into a black hole because Adeo forgot to add a storing system :3)
         (Oh well there goes the progra---)
-""", placeholder, placeholder, placeholder, placeholder,]
+""", "a" : placeholder, "b" : placeholder, "c" : placeholder, "d" : placeholder}
 
-dialogueD = ["""
+dialogueD = {0 : """
         You obliterate the harmless narrator with your cutting words that etch wounds into their poor soul...
         You make clear you are a force to be reckoned with, A FORCE WITH UNIMAGINABLE POWER!
         (You feel something has awakened in you...)
@@ -41,13 +41,13 @@ dialogueD = ["""
         A: Who's Joe???
         B: I'm not falling for that...
         C: Mama
-        D: HI JOE :DDD""", placeholder, placeholder, placeholder, placeholder]
+        D: HI JOE :DDD""", "a" : placeholder, "b" : placeholder, "c" : placeholder, "d" : placeholder}
 
-dialogue = ["""
+dialogue = {0 : """
         You are in my toilet????
 
         A: Huh, what do you mean this is your toilet???
         B: This is a robbery.
         C: Oh my bad I'll leave right now.
         D: YOU SMELLLLL!!!!1!!1!!!
-""", dialogueA, dialogueB, dialogueC, dialogueD]
+""", "a" : placeholder, "b" : placeholder, "c" : placeholder, "d" : placeholder}
