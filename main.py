@@ -4,4 +4,4 @@ current_dialogue = m.dialogue
 answer = f.message(current_dialogue)
 while True:
     current_dialogue = f.responseCheck(answer, current_dialogue)
-    f.message(current_dialogue)
+    answer = f.message(current_dialogue)
